@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building Travoxa – a travel-based digital platform<br><br>👯 Open to collaboration on innovative web & startup projects<br><br>🤝 Looking for help in scaling, UI/UX & product growth<br><br>🌱 Learning Full Stack Development, AI & automation<br><br>💬 Ask me about startups, travel tech & building products<br><br>⚡ Fun fact: I build real projects, not just learn theory
+🔭 Currently building Travoxa – a travel-based digitaal platform<br><br>👯 Open to collaboration on innovative web & startup projects<br><br>🤝 Looking for help in scaling, UI/UX & product growth<br><br>🌱 Learning Full Stack Development, AI & automation<br><br>💬 Ask me about startups, travel tech & building products<br><br>⚡ Fun fact: I build real projects, not just learn theory
 
 
 ## 🌐 Socials:
